@@ -76,7 +76,7 @@ tl2.from(
   {
     rotate: "-90deg",
     top: "110%",
-    left: "0",
+    left: "100%",
   },
   "ca"
 );
@@ -95,7 +95,7 @@ tl2.from(
   {
     rotate: "90deg",
     top: "110%",
-    left: "0",
+    left: "100%",
   },
   "ca"
 );
